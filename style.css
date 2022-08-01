@@ -24,9 +24,9 @@ body {
   align-items: flex-start;
 }
 
-.hidecard {
-  /* display: none !important; */
-}
+/* .hidecard {
+  display: none !important;
+} */
 
 .thankyou-card {
   text-align: center;
